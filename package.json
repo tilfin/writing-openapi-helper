@@ -1,7 +1,7 @@
 {
   "name": "writing-openapi-helper",
   "version": "0.1.0",
-  "description": "",
+  "description": "helps you write Open API definition",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/tilfin/writing-openapi-helper.git"
   },
-  "author": "",
+  "author": "Toshimitsu Takahashi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tilfin/writing-openapi-helper/issues"
