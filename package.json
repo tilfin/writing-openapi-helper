@@ -1,0 +1,29 @@
+{
+  "name": "writing-openapi-helper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilfin/writing-openapi-helper.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tilfin/writing-openapi-helper/issues"
+  },
+  "homepage": "https://github.com/tilfin/writing-openapi-helper#readme",
+  "devDependencies": {
+    "@types/js-yaml": "^3.12.2",
+    "@types/node": "^13.5.1",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  }
+}

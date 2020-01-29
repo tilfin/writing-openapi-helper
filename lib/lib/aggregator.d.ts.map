@@ -1,0 +1,1 @@
+{"version":3,"file":"aggregator.d.ts","sourceRoot":"","sources":["../../src/lib/aggregator.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,mBAAmB,EAAE,MAAM,SAAS,CAAA;AAEhE,qBAAa,UAAU;IACrB,OAAO,CAAC,eAAe,CAAoC;;IAM3D,OAAO,CAAC,OAAO,EAAE,OAAO,EAAE,QAAQ,EAAE,QAAQ;IAU5C,MAAM;CAGP"}
